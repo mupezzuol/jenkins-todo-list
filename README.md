@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # django-todolist
 
 Simple todolist write in django for general use and pipeline automation..
@@ -38,4 +37,3 @@ License
 GPL
 =======
 # jenkins-todo-list
->>>>>>> bdd15609fa393c9fdf47ae3e4bae8cd65be420ee
